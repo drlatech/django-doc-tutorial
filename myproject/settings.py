@@ -89,4 +89,3 @@ TEMPLATE_DIRS = (
     os.path.join(os.path.dirname(__file__) + '/templates/'),
     # os.path.join(BASE_DIR + '/templates/')
 )
-print(TEMPLATE_DIRS)
